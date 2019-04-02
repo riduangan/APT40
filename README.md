@@ -3,4 +3,4 @@ IOC and Binaries
 
 -Adding all the IOC for APT40
 
--Binaries will be added thereafter
+-APT40-1 is done. No rules will be added
