@@ -1,6 +1,5 @@
 # APT40
-IOC and Binaries
+Need more IOC and Binaries- help!
 
 -Adding all the known IOC for APT40
 
--Need more binaries for this specific APT - help!
