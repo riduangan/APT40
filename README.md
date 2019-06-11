@@ -1,6 +1,6 @@
 # APT40
 IOC and Binaries
 
--Adding all the IOC for APT40
+-Adding all the known IOC for APT40
 
--All files uploaded are analysed
+-Need more binaries for this specific APT - help!
